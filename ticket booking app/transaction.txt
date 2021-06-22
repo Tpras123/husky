@@ -1,0 +1,16 @@
+*****************************
+Ticket No: 185
+21/06/2021 20:48:55
+******************************
+category:Adult
+Qty:3
+unit cost:100
+total cost:300
+
+category:children
+Qty:2
+unit cost:20
+total cost:40
+
+**************************************************Total cost(in $) 340
+Total cost with tax(in $) 391
