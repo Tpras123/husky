@@ -1,0 +1,21 @@
+*****************************
+Ticket No: 72
+21/06/2021 17:12:44
+******************************
+category:Adult
+Qty:3
+unit cost:100
+total cost:300
+
+category:concession
+Qty:3
+unit cost:70
+total cost:210
+
+category:children
+Qty:4
+unit cost:20
+total cost:80
+
+**************************************************Total cost(in $) 590
+Total cost with tax(in $) 678
