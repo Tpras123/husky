@@ -2,7 +2,7 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
+#booking a ticket app using python
 import random
 import time
 local_date=time.strftime("%d/%m/%Y", time.localtime(time.time()))
