@@ -1,0 +1,12 @@
+#example output for rock,paper and scissors
+enter scissors or rock or paper: s
+computer won! one point!
+enter scissors or rock or paper: p
+computer won! one point!
+enter scissors or rock or paper: r
+user won! one point!
+enter scissors or rock or paper: s
+user won! one point!
+enter scissors or rock or paper: r
+user won! one point!
+you won by 3
